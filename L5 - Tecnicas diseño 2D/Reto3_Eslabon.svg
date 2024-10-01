@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg2061"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Reto3_Eslabon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2063"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.4204826"
+     inkscape:cx="728.92433"
+     inkscape:cy="692.06192"
+     inkscape:window-width="935"
+     inkscape:window-height="1011"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2058" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path3172"
+       style="fill:#00ffff;stroke:#000000;stroke-width:1.28386;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 61.872007,87.121908 a 25.677284,25.677284 0 0 0 -25.656316,25.691452 25.677284,25.677284 0 0 0 25.67802,25.66303 25.677284,25.677284 0 0 0 0.0067,0 H 243.64179 v -5.1e-4 a 25.677284,25.677284 0 0 0 0.007,5.1e-4 25.677284,25.677284 0 0 0 25.67026,-25.6775 v -0.0279 a 25.677284,25.677284 0 0 0 -25.6775,-25.648565 v -5.17e-4 H 61.893711 v 0.001 a 25.677284,25.677284 0 0 0 -0.0217,-0.001 z m 0.01447,17.676962 a 8,8 0 0 1 8.006746,7.99124 v 0.009 a 8,8 0 0 1 -7.997961,8.00003 8,8 0 0 1 -8.002096,-7.99538 8,8 0 0 1 7.993311,-8.00467 z m 181.748594,0 a 8,8 0 0 1 8.00675,7.99124 v 0.009 a 8,8 0 0 1 -7.99796,8.00003 8,8 0 0 1 -8.0021,-7.99538 8,8 0 0 1 7.99331,-8.00467 z" />
+  </g>
+</svg>
