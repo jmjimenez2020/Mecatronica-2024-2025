@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg4963"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Reto4_Eslabon_Medidas.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <style
+     id="style5727">
+.measure-arrow
+{
+}
+.measure-label
+{
+
+}
+.measure-line
+{
+}</style>
+  <sodipodi:namedview
+     id="namedview4965"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:zoom="0.5946522"
+     inkscape:cx="698.72776"
+     inkscape:cy="506.17823"
+     inkscape:window-width="935"
+     inkscape:window-height="1011"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs4960">
+    <rect
+       x="369.45085"
+       y="139.69254"
+       width="214.33705"
+       height="101.40644"
+       id="rect12077" />
+    <marker
+       style="overflow:visible"
+       id="marker11342"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path11340" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Arrow2"
+       markerWidth="7.6999998"
+       markerHeight="5.5999999"
+       viewBox="0 0 7.7 5.6"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="arrow2L" />
+    </marker>
+    <inkscape:path-effect
+       effect="measure_segments"
+       linked_items=""
+       id="path-effect5725"
+       is_visible="true"
+       lpeversion="1"
+       unit="mm"
+       orientation="parallel"
+       coloropacity="#000000ff"
+       fontbutton="Sans 10"
+       precision="2"
+       fix_overlaps="0"
+       position="5"
+       text_top_bottom="0"
+       helpline_distance="0"
+       helpline_overlap="2"
+       line_width="0.25"
+       scale="1"
+       format="{measure}{unit}"
+       blacklist=""
+       active_projection="false"
+       whitelist="false"
+       showindex="false"
+       arrows_outside="false"
+       flip_side="false"
+       scale_sensitive="true"
+       local_locale="true"
+       rotate_anotation="true"
+       hide_back="true"
+       hide_arrows="false"
+       smallx100="false"
+       distance_projection="20"
+       angle_projection="0"
+       avoid_overlapping="true"
+       onbbox="false"
+       bboxonly="false"
+       centers="false"
+       maxmin="false"
+       helpdata="&lt;b&gt;&lt;big&gt;General&lt;/big&gt;&lt;/b&gt;
+Mostrar y colocar líneas de dimensión y etiquetas
+
+&lt;b&gt;&lt;big&gt;Proyección&lt;/big&gt;&lt;/b&gt;
+Mostrar una línea com medidas basadas en los elementos seleccionados
+
+&lt;b&gt;&lt;big&gt;Opciones&lt;/big&gt;&lt;/b&gt;
+Opciones de color, precisión, formato de etiquetas y presentación
+
+&lt;b&gt;&lt;big&gt;Consejos&lt;/big&gt;&lt;/b&gt;
+&lt;b&gt;&lt;i&gt;Estilo personalizado:&lt;/i&gt;&lt;/b&gt; Para personalizar los estilos con más detalle, utilice el editor XML para localizar la clase o el ID, luego utilice el diálogo Estilo para aplicar un estilo nuevo.
+&lt;b&gt;&lt;i&gt;Listas negras:&lt;/i&gt;&lt;/b&gt; permiten ocultar algunos segmentos o pasos de proyección.
+&lt;b&gt;&lt;i&gt;Varios LPEs de medida:&lt;/i&gt;&lt;/b&gt; Usado junto a las listas negras, permite tener etiquetas y medidas con distintas orientaciones o proyecciones adicionales en el mismo objeto.
+&lt;b&gt;&lt;i&gt;Fijar predeterminados:&lt;/i&gt;&lt;/b&gt; Se pueden fijar valores predeterminado para cada LPE, en la parte inferior." />
+    <marker
+       id="ArrowDINout-start"
+       class="path5303 path-effect5725 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-start"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 -16,2.11 -16,0.5 -26,0.5 -26,-0.5 -16,-0.5 -16,-2.11 z"
+         class="path5303 path-effect5725 measure-arrow"
+         id="ArrowDINout-start_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+    <marker
+       id="ArrowDINout-end"
+       class="path5303 path-effect5725 measure-arrow-marker"
+       inkscape:stockid="ArrowDINout-end"
+       orient="auto"
+       refX="0.0"
+       refY="0.0"
+       sodipodi:insensitive="true">
+      <path
+         d="M 0,0 16,-2.11 16,-0.5 26,-0.5 26,0.5 16,0.5 16,2.11 z"
+         class="path5303 path-effect5725 measure-arrow"
+         id="ArrowDINout-end_path"
+         style="fill:context-stroke;;fill-opacity:1;stroke:none" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path7257"
+       style="fill:#87decd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       class="UnoptimicedTransforms"
+       d="M 47.591927 75.000073 A 30 30 0 0 0 17.617013 105.01633 A 30 30 0 0 0 47.617249 134.99951 L 47.617249 135.00003 L 197.61688 135.00003 L 197.61688 134.99951 A 30 30 0 0 0 197.62515 135.00003 A 30 30 0 0 0 227.61711 104.99979 L 227.61711 104.96724 A 30 30 0 0 0 197.61688 75.001107 L 197.61688 75.000073 L 197.59259 75.000073 L 47.617249 75.000073 L 47.617249 75.001107 A 30 30 0 0 0 47.591927 75.000073 z M 47.60898 94.999886 A 10 10 0 0 1 57.617155 104.98894 L 57.617155 104.99979 A 10 10 0 0 1 47.619832 115.00022 A 10 10 0 0 1 37.616825 105.00548 A 10 10 0 0 1 47.60898 94.999886 z M 198.10884 94.999886 A 10 10 0 0 1 208.11701 104.98894 L 208.11701 104.99979 A 10 10 0 0 1 198.11969 115.00022 A 10 10 0 0 1 188.1172 105.00548 A 10 10 0 0 1 198.10884 94.999886 z " />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Capa 2"
+     style="display:inline">
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.40941;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow2);marker-end:url(#marker11342);paint-order:stroke fill markers"
+       d="m 47.617059,111.7049 3e-6,-13.409799"
+       id="path10710" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.499999, 1.5;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="M 47.617059,105 V 63.790774"
+       id="path11490" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.499999, 1.5;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="M 198.11706,105 V 63.790773"
+       id="path11492" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.511657;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow2);marker-end:url(#Arrow2);paint-order:stroke fill markers"
+       d="m 50.79367,63.790774 147.29677,-3e-6"
+       id="path11494" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.499999, 1.5;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="m 198.11708,75.005273 55.29594,-0.0053"
+       id="path11811" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Arrow2);marker-end:url(#Arrow2);paint-order:stroke fill markers"
+       d="M 253.41302,78.075432 V 132.09559"
+       id="path11815" />
+    <path
+       style="fill:#00ffff;stroke:#000000;stroke-width:0.499999;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:0.499999, 1.5;stroke-dashoffset:0;paint-order:stroke fill markers"
+       d="m 198.11708,135.25022 55.29594,-0.005"
+       id="path11817" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.08587px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       x="107.79673"
+       y="62.267273"
+       id="text12163"><tspan
+         sodipodi:role="line"
+         id="tspan12161"
+         style="fill:#000000;stroke-width:0;stroke-dasharray:none"
+         x="107.79673"
+         y="62.267273">150mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.08587px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       x="257.29465"
+       y="104.99465"
+       id="text12319"><tspan
+         sodipodi:role="line"
+         id="tspan12317"
+         style="fill:#000000;stroke-width:0;stroke-dasharray:none"
+         x="257.29465"
+         y="104.99465">60mm</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:9.08587px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;paint-order:stroke fill markers"
+       x="60.215576"
+       y="105.15914"
+       id="text12323"><tspan
+         sodipodi:role="line"
+         id="tspan12321"
+         style="fill:#000000;stroke-width:0;stroke-dasharray:none"
+         x="60.215576"
+         y="105.15914">20mm</tspan></text>
+  </g>
+</svg>
