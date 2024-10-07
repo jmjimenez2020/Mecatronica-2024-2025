@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="594mm"
+   height="420mm"
+   viewBox="0 0 594 420"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (1:1.3.2+202311252150+091e20ef0f)"
+   sodipodi:docname="Reto5_Cadena_Cinematica.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="0.24378221"
+     inkscape:cx="1224.4536"
+     inkscape:cy="602.99725"
+     inkscape:window-width="925"
+     inkscape:window-height="1016"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path7257-2"
+       style="fill:#afe9dd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       class="UnoptimicedTransforms"
+       d="M 116.47508,149.50003 A 30,30 0 0 0 86.50017,179.5163 30,30 0 0 0 116.5004,209.49948 V 209.5 h 149.99964 v -5.2e-4 a 30,30 0 0 0 0.008,5.2e-4 A 30,30 0 0 0 296.5,179.49976 v -0.0326 a 30,30 0 0 0 -29.99996,-29.96609 v -0.001 h -0.0243 -149.97535 v 0.001 a 30,30 0 0 0 -0.0253,-0.001 z m 0.0171,19.99982 a 10,10 0 0 1 10.00818,9.98906 v 0.0109 a 10,10 0 0 1 -9.99733,10.00043 10,10 0 0 1 -10.003,-9.99474 10,10 0 0 1 9.99215,-10.0056 z m 150.49987,0 a 10,10 0 0 1 10.00817,9.98906 v 0.0109 a 10,10 0 0 1 -9.99732,10.00043 10,10 0 0 1 -10.00249,-9.99474 10,10 0 0 1 9.99164,-10.0056 z" />
+    <path
+       id="path6"
+       style="fill:#55ddff;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       class="UnoptimicedTransforms"
+       d="m 385.13872,44.220927 a 30,30 0 0 0 -40.70118,11.953454 30,30 0 0 0 11.93543,40.700748 l -2.5e-4,4.5e-4 131.60604,71.970421 2.5e-4,-4.5e-4 a 30,30 0 0 0 0.007,0.004 30,30 0 0 0 40.70845,-11.93122 l 0.0156,-0.0286 A 30,30 0 0 0 516.76647,116.2045 l 4.8e-4,-8.9e-4 -0.0213,-0.0117 -131.58473,-71.958757 -4.8e-4,8.74e-4 a 30,30 0 0 0 -0.0217,-0.01303 z m -9.58099,17.555564 a 10,10 0 0 1 3.98815,13.566114 l -0.006,0.0098 a 10,10 0 0 1 -13.56965,3.977371 10,10 0 0 1 -3.98088,-13.568611 10,10 0 0 1 13.56759,-3.984398 z m 132.04493,72.210439 a 10,10 0 0 1 3.98814,13.5661 l -0.005,0.01 a 10,10 0 0 1 -13.56965,3.97738 10,10 0 0 1 -3.98043,-13.56837 10,10 0 0 1 13.56714,-3.98463 z"
+       inkscape:transform-center-x="-65.640683"
+       inkscape:transform-center-y="35.896353" />
+    <path
+       id="path7"
+       style="fill:#afdde9;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       class="UnoptimicedTransforms"
+       d="m 245.15893,158.93587 a 30,30 0 0 0 1.01191,42.40811 30,30 0 0 0 42.40302,-0.99461 l 3.7e-4,3.6e-4 103.58024,-108.49436 -3.7e-4,-3.59e-4 a 30,30 0 0 0 0.006,-0.0054 30,30 0 0 0 -0.98855,-42.409372 l -0.0236,-0.02251 a 30,30 0 0 0 -42.39046,1.006219 l -7.3e-4,-6.9e-4 -0.0168,0.01758 -103.56346,108.476792 7.2e-4,6.9e-4 a 30,30 0 0 0 -0.0182,0.0176 z m 14.47763,13.79825 a 10,10 0 0 1 14.13607,-0.34109 l 0.008,0.008 a 10,10 0 0 1 0.32976,14.1367 10,10 0 0 1 -14.1366,0.33342 10,10 0 0 1 -0.33708,-14.13653 z M 363.56223,63.87794 a 10,10 0 0 1 14.13606,-0.341079 l 0.008,0.0075 a 10,10 0 0 1 0.32977,14.136699 10,10 0 0 1 -14.13625,0.333042 10,10 0 0 1 -0.33743,-14.136154 z"
+       inkscape:transform-center-x="-51.662498"
+       inkscape:transform-center-y="-54.113264" />
+    <path
+       id="path8"
+       style="fill:#37c8ab;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;paint-order:stroke fill markers"
+       class="UnoptimicedTransforms"
+       d="m 116.50794,333.02949 a 30,30 0 0 0 35.29555,23.53072 30,30 0 0 0 23.54197,-35.28145 l 5.1e-4,-10e-5 -29.31495,-147.10719 -5.1e-4,1e-4 a 30,30 0 0 0 -0.001,-0.008 30,30 0 0 0 -35.28317,-23.55058 l -0.032,0.006 a 30,30 0 0 0 -23.525204,35.27827 l -9.81e-4,2e-4 0.0048,0.0238 29.310195,147.08337 9.8e-4,-2e-4 a 30,30 0 0 0 0.004,0.025 z m 19.61084,-3.92531 a 10,10 0 0 1 7.8405,-11.76738 l 0.0107,-0.002 a 10,10 0 0 1 11.7614,7.85013 10,10 0 0 1 -7.84709,11.76343 10,10 0 0 1 -11.76545,-7.84406 z M 106.70607,181.50641 a 10,10 0 0 1 7.8405,-11.76739 l 0.0107,-0.002 a 10,10 0 0 1 11.7614,7.85014 10,10 0 0 1 -7.84719,11.76291 10,10 0 0 1 -11.76535,-7.84354 z"
+       inkscape:transform-center-x="-14.764215"
+       inkscape:transform-center-y="74.088153" />
+    <path
+       style="fill:#55ddff;stroke:#000000;stroke-width:1.3119;stroke-linejoin:bevel;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 214.05721,307.36686 -56.4052,-15.11373"
+       id="path9" />
+    <path
+       style="fill:#55ddff;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 501.56662,213.18034 V 168.66871"
+       id="path10" />
+    <path
+       style="fill:#55ddff;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="M 357.52137,183.13247 331.88574,146.74429"
+       id="path11" />
+    <path
+       style="fill:#55ddff;stroke:#000000;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none;marker-end:url(#Triangle)"
+       d="m 191.50008,115.56816 v 44.51163"
+       id="path12" />
+    <text
+       xml:space="preserve"
+       style="font-size:11.4051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="219.21111"
+       y="310.90005"
+       id="text12"><tspan
+         sodipodi:role="line"
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         x="219.21111"
+         y="310.90005"
+         id="tspan13">Eslabón 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.4051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="333.30209"
+       y="198.21135"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:1"
+         x="333.30209"
+         y="198.21135">Eslabón 3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.4051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="474.27307"
+       y="229.19232"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:1"
+         x="474.27307"
+         y="229.19232">Eslabón 4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11.4051px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linejoin:bevel;stroke-dasharray:none"
+       x="161.28122"
+       y="106.0126"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan16"
+         style="stroke-width:1"
+         x="161.28122"
+         y="106.0126">Eslabón 2</tspan></text>
+  </g>
+</svg>
